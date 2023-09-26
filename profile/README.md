@@ -1,4 +1,4 @@
-# Reposotorio Frontend
+# Repositorio Frontend
 <!--
 
 **Here are some ideas to get you started:**
