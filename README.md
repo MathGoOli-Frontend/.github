@@ -1,3 +1,3 @@
 # .github
 # Projetos front end
-a maioria feita por mim enquando estudava na Kenzie academy Brasil.
+A maioria feita enquando eu estudava na Kenzie academy Brasil.
